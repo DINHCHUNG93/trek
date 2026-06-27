@@ -1,3 +1,46 @@
+
+
+
+Nếu bạn đang tìm kiếm một giải pháp mã nguồn mở để quản lý toàn bộ chuyến đi của mình thay vì dùng hàng chục ứng dụng khác nhau, thì TREK là dự án đáng chú ý nhất mình thấy gần đây.
+
+TREK là một nền tảng trip planner tự host với hơn 7.4k ⭐ trên GitHub, được ví như sự kết hợp giữa Wanderlog, Google Maps, Splitwise và Notion dành riêng cho du lịch.
+
+Điều khiến dự án này nổi bật không phải là lập kế hoạch hành trình đơn thuần mà là khả năng quản lý gần như toàn bộ chuyến đi trong một nơi duy nhất:
+
+• Lập lịch trình theo từng ngày bằng giao diện kéo thả trực quan.
+• Hiển thị toàn bộ địa điểm trên bản đồ tương tác.
+• Tự động tối ưu tuyến đường di chuyển.
+• Tìm kiếm địa điểm từ Google Places hoặc OpenStreetMap.
+• Theo dõi ngân sách theo từng danh mục chi tiêu.
+• Chia tiền giữa các thành viên giống Splitwise.
+• Hỗ trợ đa tiền tệ cho các chuyến đi quốc tế.
+• Quản lý vé máy bay, khách sạn, nhà hàng và booking.
+• Lưu trữ vé điện tử, PDF và tài liệu chuyến đi.
+• Tạo checklist hành lý và theo dõi tiến độ đóng gói.
+• Giao việc chuẩn bị hành lý cho từng thành viên trong đoàn.
+• Đồng bộ thời gian thực giữa các thành viên.
+• Chat nhóm, ghi chú chung và tạo poll biểu quyết.
+• Theo dõi thời tiết đến 16 ngày trước chuyến đi.
+• Hoạt động offline nhờ hỗ trợ PWA.
+• Cài như ứng dụng trên iPhone hoặc Android mà không cần App Store.
+• Hỗ trợ đăng nhập Google, Apple, Keycloak và nhiều hệ thống SSO khác.
+• Tích hợp MCP Server để AI Agent có thể trực tiếp lên kế hoạch chuyến đi, tạo packing list hoặc quản lý ngân sách tự động.
+
+Điểm mình đánh giá cao nhất là toàn bộ dữ liệu đều nằm trên server của bạn thay vì nằm trên dịch vụ của bên thứ ba. Đây là thứ mà rất ít ứng dụng lập kế hoạch du lịch hiện nay cho phép.
+
+Chỉ với một lệnh Docker, bạn đã có thể triển khai hệ thống trong khoảng 30 giây và sử dụng ngay trên điện thoại hoặc máy tính bảng như một ứng dụng native thực thụ.
+
+Một dự án cực kỳ phù hợp cho:
+
+* Gia đình chuẩn bị đi du lịch.
+* Nhóm bạn đi phượt hoặc roadtrip.
+* Digital nomad thường xuyên di chuyển.
+* Công ty tổ chức team building hoặc công tác.
+* Những ai thích self-host và kiểm soát dữ liệu cá nhân.
+
+
+
+
 <div align="center">
 
 <picture>
